@@ -1,3 +1,4 @@
+'use client';
 // components/dashboard/InsightsGrid.tsx
 import InsightCard from './InsightCard';
 import { FileText, Clock, CheckCircle, DollarSign, TrendingUp } from 'lucide-react';
